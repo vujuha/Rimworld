@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SandPump\Source\SandPump\SandPump\obj\Debug\SandPump.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SandPump\Source\SandPump\SandPump\obj\Debug\SandPump.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SandPump\Assemblies\SandPump.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SandPump\Source\SandPump\SandPump\obj\Debug\SandPump.dll
